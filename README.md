@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm Dalibor. Originally from Osijek, Croatia 🇭🇷, now living and working in Stockholm, Sweden 🇸🇪. My programming career in three sentences:
+
+ - 👶 Did OK at some Computer Science competitions when I was younger
+ - 🎓 Got master's degrees in Computer Engineering and Software Engineering
+ - 👨‍🏭 Now working with .NET and Azure (among other things)
+
+You may find more information about me through [dalibormesaric.com](https://dalibormesaric.com)
+
 <!--
 **dalibormesaric/dalibormesaric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
